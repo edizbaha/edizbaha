@@ -17,7 +17,6 @@
 <p align="center">
 <a href="https://github.com/edizbaha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edizbaha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edizbaha&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -26,11 +25,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://coskun.dev"><img src="https://img.shields.io/badge/-coskun.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://twitter.com/mehmetcskun_"><img src="https://img.shields.io/badge/-@mehmetcskun__-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/coskunmehmet/"><img src="https://img.shields.io/badge/-Mehmet%20COŞKUN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mehmet@coskun.dev"><img src="https://img.shields.io/badge/-mehmet@coskun.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mehmetcskun_"><img src="https://img.shields.io/badge/-@mehmetcskun__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/edizbaha"><img src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728"/></a>
+<a href="https://twitter.com/ediz_baha"><img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056"/></a>
+<a href="https://www.facebook.com/edizbahaa/"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443"/></a>
+<a href="https://github.com/edizbaha"><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151"/></a>
 
 </p>
 
