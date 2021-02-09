@@ -26,5 +26,5 @@
 
 <p align="center">
 <a href="https://instagram.com/edizbaha"><img src="https://img.shields.io/badge/-@edizbaha-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/ediz_baha"><img src="https://img.shields.io/badge/-@edizbaha-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/edizbaha"><img src="https://img.shields.io/badge/-@edizbaha-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
