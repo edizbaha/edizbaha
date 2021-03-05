@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://aralroca.com">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+    <img width="100" src="https://avatars.githubusercontent.com/u/39214723" alt="logo" />
   </a>
 </p>
 
