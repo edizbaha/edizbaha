@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://edizbaha.tk">
+    <img width="250" src="https://raw.githubusercontent.com/edizbaha/edizbaha/main/edizbaha.svg" alt="logo" />
+  </a>
+</p>
+
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://instagram.com/edizbaha" style='margin-right:10px'>
     <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" height="30px" width="30px" />
