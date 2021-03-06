@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aralroca.com">
+  <a href="https://edizbaha.tk">
     <img width="200" src="https://avatars.githubusercontent.com/u/39214723" alt="logo" />
   </a>
 </p>
