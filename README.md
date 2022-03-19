@@ -14,9 +14,9 @@
     I'm a Developer & Designer from Turkey.
     <br>
     <br>
-    <i>#html</i>, <i>#css</i>
+    <b>Contact with me:</b> <i>hi@edizbaha.com</i>
+    <br>
   </samp>
-  
   <br>
   <br>
   <br>
