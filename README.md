@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
 
-<!--
-**edizbaha/edizbaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  <br>
+  
+  <img width="200" src="https://edizbaha.com/cat.gif">
+ 
+  <br>
+  <br>
+  
+  <samp>
+    <i>Hi!</i> I'm <b>Ediz</b>.
+    <br> 
+    I'm a Developer & Designer from Turkey.
+    <br>
+    <br>
+    <i>#html</i>, <i>#css</i>
+  </samp>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
