@@ -3,7 +3,7 @@
   <br>
   <br>
   
-  <img width="200" src="https://edizbaha.com/cat.gif">
+  <img width="200" src="https://edizbaha.github.io/cat.gif">
  
   <br>
   <br>
@@ -14,7 +14,7 @@
     I'm a Developer & Designer from Turkey.
     <br>
     <br>
-    <b>Contact with me:</b> <i>hi@edizbaha.com</i>
+    <b>Contact me:</b> <i>ediz@omg.lol</i>
     <br>
   </samp>
   <br>
