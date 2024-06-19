@@ -11,7 +11,7 @@
   <samp>
     <i>Hi!</i> I'm <b>Ediz</b>.
     <br> 
-    I'm a Developer & Designer from Turkey.
+    I'm a Developer & Designer from Turkiye.
     <br>
     <br>
     <b>Contact me:</b> <i>ediz@omg.lol</i>
