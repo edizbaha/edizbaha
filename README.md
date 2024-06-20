@@ -14,7 +14,8 @@
     I'm a Developer & Designer from Turkiye.
     <br>
     <br>
-    <b>Contact me:</b> <i>ediz@omg.lol</i>
+    <b>Contact me:</b> <i><a href="mailto:ediz@omg.lol">ediz@omg.lol</a></i><br>
+    <b>Website:</b> <i><a href="https://ediz.omg.lol">ediz.omg.lol</a></i>
     <br>
   </samp>
   <br>
