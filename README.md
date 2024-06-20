@@ -9,7 +9,7 @@
   <br>
   
   <samp>
-    <i>Hi!</i> I'm <b>Ediz</b>.
+    <i>Hi!</i> I'm <b>Ediz Baha</b>.
     <br> 
     I'm a Developer & Designer from Turkiye.
     <br>
